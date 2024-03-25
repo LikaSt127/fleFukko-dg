@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    background-color: black;
+    color: FF00E5;
+    margin: 10px 15px 10px 15px;
+}
+
+button p {
+    margin: 5px 5px 5px 5px;
+}
